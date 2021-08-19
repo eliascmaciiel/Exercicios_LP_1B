@@ -1,0 +1,2 @@
+digitado = input("Digite algo.")
+
